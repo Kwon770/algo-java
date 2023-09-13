@@ -1,8 +1,11 @@
-package algo;
+package algo.goorm.offlineChallenge23;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Scanner;
 
-public class Main {
+public class Day4 {
 
     public static void main(String[] args) {
 
