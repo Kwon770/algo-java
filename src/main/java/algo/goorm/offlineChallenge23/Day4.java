@@ -30,3 +30,4 @@ public class Day4 {
         System.out.print(sum);
     }
 }
+}
