@@ -1,9 +1,8 @@
-package algo;
+package algo.goorm.offlineChallenge23;
 
 import java.util.*;
 
-public class Main {
-
+public class Day6 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
