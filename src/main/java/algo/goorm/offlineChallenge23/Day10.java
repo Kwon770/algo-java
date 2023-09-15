@@ -1,9 +1,10 @@
-package algo;
+package algo.goorm.offlineChallenge23;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Map;
+import java.util.Scanner;
 
-public class Main {
-
+public class Day10 {
     static Map<Character, Integer> dr = Map.of(
             'U', -1,
             'D', 1,
