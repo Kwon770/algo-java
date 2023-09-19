@@ -1,7 +1,6 @@
-package algo;
+package algo.boj;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
@@ -24,8 +23,7 @@ import java.util.*;
     Integer[] qq = Arrays.stream(br.readLine().split(" ")).map(Integer::parseInt).toArray(Integer[]::new);
  */
 
-public class Main {
-
+public class Dijkstra {
     static void dijkstra() {
         distances = new int[N];
         Arrays.fill(distances, Integer.MAX_VALUE);
