@@ -1,0 +1,10 @@
+
+>
+java:S1643"Use a StringBuilder instead.(¾¸ïèûÿÿÿÿ8ñÐÐºÐ1
+Ž
+java:S1130!"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8â‰ÏºÐ1
+L	java:S106$"+Replace this use of System.out by a logger.(òÆèÝÿÿÿÿÿ8â‰ÏºÐ1
+G	java:S106%"+Replace this use of System.out by a logger.(‹ë»½8â‰ÏºÐ1
+]	java:S125&"<This block of commented-out lines of code should be removed.(ó„Ú¾øÿÿÿÿ8ã‰ÏºÐ1
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8›ÖÏºÐ1

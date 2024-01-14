@@ -1,7 +1,6 @@
-package algo;
+package algo.programmers.sort;
 
-import java.io.*;
-import java.util.*;
+import java.util.Arrays;
 
 /**
  * 가장 큰 수
@@ -11,8 +10,7 @@ import java.util.*;
  * https://way-code.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%A0%95%EB%A0%AC-%EB%AC%B8%EC%9E%90%EC%97%B4
  */
 
-public class Main {
-
+public class 가장_큰_수 {
 
     public String solution(int[] numbers) {
         String answer = "";
@@ -28,13 +26,5 @@ public class Main {
             answer += s;
         }
         return answer;
-    }
-
-    public static void main(String[] args) throws Exception {
-        Main main = new Main();
-
-        System.out.println(main.solution(new int[]{6, 10, 2}));
-        System.out.println(main.solution(new int[]{3, 30, 34, 5, 9}));
-//        System.out.println(main.solution(new int[][]{{1, 2}, {3, 4}}));
     }
 }

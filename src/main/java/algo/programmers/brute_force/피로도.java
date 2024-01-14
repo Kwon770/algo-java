@@ -8,6 +8,9 @@ https://school.programmers.co.kr/learn/courses/30/lessons/87946
 가능한 경웅의 수를 모두 검토하기 위해, 순열을 만들고 계산할 수도 있지만 dfs 완탐이 가장 효율적인 것 같다.
  */
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class 피로도 {
 
         int answer = -1;
@@ -24,6 +27,8 @@ public class 피로도 {
                 visited[i] = false;
             }
         }
+
+        Queue<Integer> queue = new LinkedList<>();
 
         public int solution(int k, int[][] dungeons) {
             boolean[] visited = new boolean[dungeons.length];

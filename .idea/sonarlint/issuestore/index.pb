@@ -30,3 +30,7 @@ s
 Csrc/main/java/algo/programmers/hash/완주하지_못한_선수.java,2/8/285124dbbe8b6b68000c78ae3b6cf6b85abdcbd0
 b
 2src/main/java/algo/programmers/hash/폰켓몬.java,5/b/5b6d7c574dd1360c91d882ec0eec64c60459059d
+i
+9src/main/java/algo/programmers/brute_force/피로도.java,4/8/486c4654f9feb873eed0713a30a1fabbf45239d0
+g
+7src/main/java/algo/programmers/sort/가장_큰_수.java,3/4/34b9338e09b402042e5a91a929a88251be06a385
